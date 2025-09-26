@@ -29,7 +29,7 @@ MonoBehaviour:
   - {x: 0.041666668, y: 0.6666666}
   - {x: 0.125, y: 0.8333333}
   - {x: 0.29166666, y: 0.9583333}
-  - {x: 0.5, y: 1}
+  - {x: 0.49666667, y: 1}
   _scalingMode: 0
   _directionSensitivity: 0
   _rotationSensitivity: 0
@@ -50,6 +50,6 @@ MonoBehaviour:
   - {x: 62.5, y: 150}
   - {x: 87.5, y: 100}
   - {x: 137.5, y: 62.5}
-  - {x: 200, y: 50}
+  - {x: 199, y: 50}
   _editorLineColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 0.3137255}
   _name: Circle

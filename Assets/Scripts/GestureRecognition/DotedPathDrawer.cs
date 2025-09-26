@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UnistrokeGestureRecognition.Example {
+namespace UnistrokeGestureRecognition {
     public sealed class DotedPathDrawer : PathDrawerBase {
         [SerializeField] private GameObject _dotPrefab;
         private readonly List<GameObject> _dotList = new();

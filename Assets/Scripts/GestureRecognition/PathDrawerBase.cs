@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UnistrokeGestureRecognition.Example {
+namespace UnistrokeGestureRecognition {
     public abstract class PathDrawerBase : MonoBehaviour {
         public abstract void Hide();
         public abstract void Show();

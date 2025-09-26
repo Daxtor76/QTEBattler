@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UnistrokeGestureRecognition.Example {
+namespace UnistrokeGestureRecognition {
     public sealed class LinePathDrawer : PathDrawerBase {
         [SerializeField] private LineRenderer _brash;
 
