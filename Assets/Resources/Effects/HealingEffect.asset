@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf5d5effd64128148849bbc2657994aa, type: 3}
-  m_Name: DamageEffect
-  m_EditorClassIdentifier: Assembly-CSharp::DamageEffect
+  m_Script: {fileID: 11500000, guid: afaf38debe3e40d4792a3cf4c06a4803, type: 3}
+  m_Name: HealingEffect
+  m_EditorClassIdentifier: Assembly-CSharp::HealingEffect
   description: 
-  amount: 10
+  amount: 150
